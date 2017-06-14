@@ -1,3 +1,4 @@
 # HelloWorld
-This is my first repository. My name is Pavros.
+My name is Pavros.
 I am an aspiring Web Developer and Blogger
+This is My second GitHub Committ
